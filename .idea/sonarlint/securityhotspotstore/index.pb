@@ -9,3 +9,7 @@ H
 contracts/risk-pool.clar,3/c/3ce65b36d90e14569c3512d3802066a4a1dabd0f
 G
 tests/risk-pool.test.ts,b/d/bd16ec2a5c0de14e199b897b11b82d4c2d1080f6
+Q
+!contracts/claim-verification.clar,0/c/0c982cadc7fd1d0bc66b8e29d595a0c95189ca95
+P
+ tests/claim-verification.test.ts,3/3/33b1ce6451b8ed3df263619a88379794ec7d9f4a
